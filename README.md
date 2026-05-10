@@ -17,3 +17,4 @@ Developed a Multi-Currency Accounting System with offline-first architecture, su
 
 ## Screenshots
 (Add screenshots below)
+<img width="1908" height="932" alt="image" src="https://github.com/user-attachments/assets/a7a217d1-a5f7-4573-8dc9-7f4524b2ca34" />
